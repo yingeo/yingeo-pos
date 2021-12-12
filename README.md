@@ -41,7 +41,7 @@ YINGEO = 银歌，是由原红河华云信息技术有限公司旗下分公司�
 
 > 银歌收银系统系统架构图
 
-![银歌系统架构图](https://www.yingeo.com/img/jg.png "银歌系统架构图")
+![银歌系统架构图](https://yingeo-img.oss-cn-shenzhen.aliyuncs.com/jg.png "银歌系统架构图")
 
 
 > 核心技术栈
@@ -78,30 +78,30 @@ YINGEO-POS
 
 `以下截图是从实际已完成功能界面截取,截图时间为：2021-12-12 12:12`
 
-![银歌收银端演示界面](https://www.yingeo.com/img/syd1.png "银歌收银端演示界面")
+![银歌收银端演示界面](https://yingeo-img.oss-cn-shenzhen.aliyuncs.com/syd1.png "银歌收银端演示界面")
 
-![银歌收银端演示界面](https://www.yingeo.com/img/syd2.png "银歌收银端演示界面")
+![银歌收银端演示界面](https://yingeo-img.oss-cn-shenzhen.aliyuncs.com/syd2.png "银歌收银端演示界面")
 
-![银歌后台演示界面](https://www.yingeo.com/img/ybp.png "银歌后台演示界面")
+![银歌后台演示界面](https://yingeo-img.oss-cn-shenzhen.aliyuncs.com/ybp.png "银歌后台演示界面")
 
-![银歌后台演示界面](https://www.yingeo.com/img/sj.png "银歌后台演示界面")
+![银歌后台演示界面](https://yingeo-img.oss-cn-shenzhen.aliyuncs.com/sj.png "银歌后台演示界面")
 
-![银歌后台演示界面](https://www.yingeo.com/img/spgl.png "银歌后台演示界面")
+![银歌后台演示界面](https://yingeo-img.oss-cn-shenzhen.aliyuncs.com/spgl.png "银歌后台演示界面")
 
-![银歌后台演示界面](https://www.yingeo.com/img/gys.png "银歌后台演示界面")
+![银歌后台演示界面](https://yingeo-img.oss-cn-shenzhen.aliyuncs.com/gys.png "银歌后台演示界面")
 
-![银歌后台演示界面](https://www.yingeo.com/img/gys2.png "银歌后台演示界面")
+![银歌后台演示界面](https://yingeo-img.oss-cn-shenzhen.aliyuncs.com/gys2.png "银歌后台演示界面")
 
-![银歌掌柜演示界面](https://www.yingeo.com/img/zgd.jpg "银歌掌柜演示界面")
+![银歌掌柜演示界面](https://yingeo-img.oss-cn-shenzhen.aliyuncs.com/zgd.jpg "银歌掌柜演示界面")
 
-![银歌会员演示界面](https://www.yingeo.com/img/why.jpg "银歌会员演示界面")
+![银歌会员演示界面](https://yingeo-img.oss-cn-shenzhen.aliyuncs.com/why.jpg "银歌会员演示界面")
 
 ## 🥪 关于我们
 ***
 微信扫描下面二维码，关注官方公众号：银歌收银，获取更多精彩内容。
 
-<img src="https://www.yingeo.com/img/gzh.jpg" alt="银歌收银公众号" title="银歌收银公众号" style="zoom: 20%;" />
+<img src="https://yingeo-img.oss-cn-shenzhen.aliyuncs.com/gzh.jpg" alt="银歌收银公众号" title="银歌收银公众号" style="zoom: 20%;" />
 
 微信扫描下方二维码，邀请进官方微信交流群（加好友备注：邀请进群或银歌收银咨询）。
 
-<img src="https://www.yingeo.com/img/wx.jpg" alt="银歌微信交流群" title="银歌微信交流群" style="zoom: 25%;" />
+<img src="https://yingeo-img.oss-cn-shenzhen.aliyuncs.com/wx.jpg" alt="银歌微信交流群" title="银歌微信交流群" style="zoom: 25%;" />

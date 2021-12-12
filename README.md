@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://www.yingeo.com/"><img src="https://www.yingeo.com/template/bst001/bst/images/logo.svg"></a>
+	<a href="https://www.yingeo.com/"><img src="https://jeequan.oss-cn-beijing.aliyuncs.com/jeepay/img/jeepay_logo.svg"></a>
 </p>
 <p align="center">
 	<strong>银歌开源收银系统 - 新一代开店软件，智慧零售，数字门店</strong>
